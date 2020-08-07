@@ -1,1 +1,1 @@
-# Auto-target-tracking (incomplete version, jsut for backing up)
+# Auto-target-tracking (incomplete version, just for backing up)
